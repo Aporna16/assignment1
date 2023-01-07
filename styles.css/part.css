@@ -16,9 +16,9 @@ main{
         display: flex;
         align-items: center;
         text-align: end;
-        justify-content: flex-end;
+        justify-content: end;
         padding-right: 230px;
-        margin-bottom: 130px;
+        margin-bottom: 60px;
     
    
 }
@@ -112,7 +112,7 @@ color: #444343;
     padding: 0 65px;
     display: flex;
     
-    background:  linear-gradient(90deg,#f15322 0,rgba(230,98,45,0)90%),url('images/watch.png');
+    background:  linear-gradient(90deg,#f15322 0,rgba(230,98,45,0)90%),,url('images/watch.png');
     margin-bottom: 130px;
     color: #FFFFFF;
 }
