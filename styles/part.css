@@ -1,21 +1,41 @@
 *{
     margin: 0px;
-    padding: 0px;
+    font-family: 'Work Sans', sans-serif;
 }
-.bigimage{
-    width: 1600px;
-    height: 800px;
-    background-image: url(banner.png);
-    background-size: cover;
+main{
+    max-width: 1400px;
+    margin: 0 auto;
 }
-/* banner style */
+/* start-header-css*/
 .banner{
+    height: 800px;
+    width: 1200px;
+    background-image: url('/images/banner/banner1.png');
+    background-size: cover;
+    display: flex;
     align-items: center;
-margin: 0 200px;
+    text-align: end;
+    justify-content: end;
+    padding-right: 230px;
+    margin-bottom: 130px;
 }
-.banner-description{
-    color: #444343;
-    font-size: 16px;
-    font-weight: 400;
-    
+.banner-title{
+    font-size: 50px;
+    color:  #151414;
+    margin: 24px 0px 30px;
 }
+.contact-btn{
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 300;
+    height: 64px;
+    padding: 20px 25px;
+}
+/*end-header-css*/
+
+
+
+
