@@ -112,7 +112,8 @@ color: #444343;
     padding: 0 65px;
     display: flex;
     
-    background:  linear-gradient(90 deg,#F15322 0%,rgba(241,91,45,0)100%), url('images/watch.png');
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
 }
 .phone-button{
     color: #F15B22;
@@ -122,6 +123,8 @@ color: #444343;
     border: none;
     font-weight: 400px;
     font-size: 20px;
+    width: 160px;
+    height: 64px;
 }
 /*end mindset css*/
 /*contact styles */
@@ -152,6 +155,8 @@ height: 600px;
 }
 .social-icon-img{
 margin-right: 20px;
+width: 92.96px;
+height: 92.96px;
 }
 .option{
     padding-bottom: 140px;
