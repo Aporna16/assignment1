@@ -39,12 +39,7 @@ main{
 
 
 /*start failures css-->*/
-.previous-year-mistake{
-    
-   
-    
 
-}
 .section-title{
     color: #151414;
     font-weight: 700;
@@ -104,9 +99,26 @@ color: #444343;
     line-height: 29px;
     font-size: 25px;
     font-weight: 500;
-
 }
-
-
-
-
+/* end plan css*/
+/*start mindset css*/
+.mindset{
+    align-items: center;
+    font-weight: 400px;
+    padding: 0 65px;
+    display: flex;
+    
+    background: url('images/watch.png'), linear-gradient(90deg,#f15322 0,rgba(230,98,45,0)90%);
+    margin-bottom: 130px;
+    color: #FFFFFF;
+}
+.phone-button{
+    color: #F15B22;
+    background: #FFFFFF;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 400px;
+    font-size: 20px;
+}
+/*end mindset css*/
