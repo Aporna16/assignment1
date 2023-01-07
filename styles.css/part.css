@@ -112,9 +112,7 @@ color: #444343;
     padding: 0 65px;
     display: flex;
     
-    background:  linear-gradient(90deg,#f15322 0,rgba(230,98,45,0)90%),,url('images/watch.png');
-    margin-bottom: 130px;
-    color: #FFFFFF;
+    background:  linear-gradient(90 deg,#F15322 0%,rgba(241,91,45,0)100%), url('images/watch.png');
 }
 .phone-button{
     color: #F15B22;
